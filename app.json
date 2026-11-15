@@ -1,0 +1,14 @@
+{
+  "id": "dopewars",
+  "name": "Dopewars",
+  "version": "0.1.0",
+  "author": "@0xOppty",
+  "summary": "Buy low, sell high. No slippage, no MEV, just cops.",
+  "icon": "shuffle",
+  "accent": "B10000",
+  "category": "games",
+  "permissions": [
+    "led"
+  ],
+  "hosts": []
+}
